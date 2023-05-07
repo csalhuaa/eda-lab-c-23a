@@ -11,13 +11,13 @@ Este tutorial complementa todas las explicaciones con ejemplos aclaratorios.
 
 ### Mi aprendizaje
 
-*Realice un seguimiento de su progreso con el programa gratuito "Mi aprendizaje" aquí en W3Schools.
+-Realice un seguimiento de su progreso con el programa gratuito "Mi aprendizaje" aquí en W3Schools.
 
-*¡Inicia sesión en tu cuenta y comienza a ganar puntos!
+-¡Inicia sesión en tu cuenta y comienza a ganar puntos!
 
-*Esta es una caracteristica opcional. Puede estudiar W3Schools sin usar My Learning.
+-Esta es una caracteristica opcional. Puede estudiar W3Schools sin usar My Learning.
 
-###Ejercicios Java
+##Ejercicios Java
 **System.out.print("");** es la sentencia para poder imprimir en java
 
 
