@@ -3,11 +3,11 @@ public class Metodosjava {
     public static void main(String[] args) {
 
         // Ejercicio 1
-		myMethod();
+	myMethod();
 
-		// Ejercicio 2
-		myMethod();
-		myMethod();
+	// Ejercicio 2
+	myMethod();
+	myMethod();
     }
 
     static void myMethod() {
