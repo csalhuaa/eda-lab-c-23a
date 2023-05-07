@@ -18,7 +18,8 @@ public class Main {
 
 ### Llamar a un método
 Para llamar a un método en Java, escriba el nombre del método seguido de dos paréntesis () y punto y coma;
-'''
+
+```
 public class Main {
   static void myMethod() {
     System.out.println("I just got executed!");
@@ -28,4 +29,4 @@ public class Main {
     myMethod();
   }
 }
-'''
+```
