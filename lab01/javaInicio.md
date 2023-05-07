@@ -17,9 +17,8 @@ Este tutorial complementa todas las explicaciones con ejemplos aclaratorios.
 
 -Esta es una caracteristica opcional. Puede estudiar W3Schools sin usar My Learning.
 
-##Ejercicios Java
+## Ejercicios Java
 **System.out.print("");** es la sentencia para poder imprimir en java
-
 
 public class MyClass {
   public static void main(String[] args) {
