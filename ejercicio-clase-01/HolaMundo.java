@@ -1,6 +1,6 @@
 public class HolaMundo {
 
-    public class main(Stirng[] args) {
+    public static void main(Stirng[] args) {
 	System.out.println("Hola Mundo!!!");
     }
 
